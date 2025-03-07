@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Optics. Lasers. Metrology. Fundamental Physics.
+subtitle: Optics. Photonics. Lasers. Metrology. Fundamental Physics.
 
 profile:
   align: right
