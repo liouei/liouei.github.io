@@ -17,10 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-##### B.Sc. in Photonics, National Chiao Tung University, Taiwan
-##### M.Sc.Tech. in Optics, Material and Plasma, Institut d’Optique ParisTech, France
-##### M.Sc.Eng. in Photonics Engineering, Automatic Control and Robotics, Warsaw University of Technology, Poland
-##### Ph.D. in Physics, Université de Nice, France
+<small><b> B.Sc. in Photonics, National Chiao Tung University, Taiwan</b></small>
+<small><b> M.Sc.Tech. in Optics, Material and Plasma, Institut d’Optique ParisTech, France</b></small>
+<small><b> M.Sc.Eng. in Photonics Engineering, Automatic Control and Robotics, Warsaw University of Technology, Poland</b></small>
+<small><b> Ph.D. in Physics, Université de Nice, France</b></small>
 
 I am an optical physicist specialized in **optics and photonics**, **high-power fiber lasers**, **laser power stabilization**, **precision interferometry** with **optical cavities**, and the **numerical modelling of electromagnetic waves**. I have been applying my optics background to large-scale experiments that address some of the most fundamental questions in physics, the detection of gravitational waves, on earth and in space, and the nature of the Dark Matter.
 
