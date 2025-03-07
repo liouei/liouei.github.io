@@ -17,6 +17,11 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
+###### B.Sc. in Photonics, National Chiao Tung University, Taiwan
+###### M.Sc.Tech. in Optics, Material and Plasma, Institut d’Optique ParisTech, France
+###### M.Sc.Eng. in Photonics Engineering, Automatic Control and Robotics, Warsaw University of Technology, Poland
+###### Ph.D. in Physics, Université de Nice, France
+
 I am an optical physicist specialized in **optics and photonics**, **high-power fiber lasers**, **laser power stabilization**, **precision interferometry** with **optical cavities**, and the **numerical modelling of electromagnetic waves**. I have been applying my optics background to large-scale experiments that address some of the most fundamental questions in physics, the detection of gravitational waves, on earth and in space, and the nature of the Dark Matter.
 
 I am currently leading the optical verification activities of the **European Space Agency (ESA)**'s **Laser Interferometer Space Antenna (LISA) space mission** at the Max Planck Institute for Gravitational Physics in Hannover, Germany: the optical fiber backlink (phase reference distribution system) engineering model, and the quadrant photo-receiver — phase meter (signal detection and processing chain) engineering model with a hexagon interferometer. With a planned launch in 2035, LISA will be the first space-based observatory dedicated to studying gravitational waves.
